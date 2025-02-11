@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaja Jasmitha Sai Durga Vyshnavi</h1>  
 <h3 align="center">A passionate B.Tech student and tech enthusiast from India</h3>  
 
-- 🌱 I’m currently learning **ServiceNow, Figma, and advanced web development.**  
+- 🌱 I’m currently learning **ServiceNow, Figma, React, Next.js, and advanced web development.**  
 - 🔭 I’m currently working on **Expense Management System** in ServiceNow.  
 - 📫 How to reach me: **jasmithakaja@gmail.com**  
 
@@ -15,12 +15,21 @@
   <a href="https://github.com/Jasmithakaja" target="blank">  
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="github" height="30" width="40" />  
   </a>  
+  <a href="https://leetcode.com/jasmitha_k" target="blank">  
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40"/>  
+  </a>  
 </p>  
 
 ---
 
 <h3 align="left">Languages and Tools:</h3>  
 <p align="left">  
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>  
+  </a>  
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">  
+    <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/>  
+  </a>  
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>  
   </a>  
@@ -53,3 +62,9 @@
   </a>  
 </p>  
 
+---
+
+### 🏆 My LeetCode Stats  
+<a href="https://leetcode.com/jasmitha_k/">
+  <img src="https://leetcard.jacoblin.cool/jasmitha_k?theme=light&font=Raleway&ext=contest" alt="LeetCode Stats" />
+</a>
